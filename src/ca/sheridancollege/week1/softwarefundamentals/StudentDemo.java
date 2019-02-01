@@ -16,6 +16,7 @@ public class StudentDemo
   private String program;
   private String change;
   private String demo;
+  private String branch;
   
   /**
    * A constructor to pass in the given ID and then name
